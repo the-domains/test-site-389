@@ -1,7 +1,7 @@
 name: Test site 389
 favicon: null
-layout_spectrum: 0.12017453904263675
-typography_spectrum: 0.6629294706508517
+layout_spectrum: 0.48625
+typography_spectrum: 0.43079
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#334d5c'
     - '#00ffff'
     - '#000000'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.22211112128570676
   saturation: 0.05122892186045647
   rhythmicContrast: 0.515986789483577
