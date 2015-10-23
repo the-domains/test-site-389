@@ -1,0 +1,23 @@
+name: Test site 389
+favicon: null
+layout_spectrum: 0.12017453904263675
+typography_spectrum: 0.6629294706508517
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.17522741202265024
+  lightness: 0.22211112128570676
+  saturation: 0.05122892186045647
+  rhythmicContrast: 0.515986789483577
+purpose: []
