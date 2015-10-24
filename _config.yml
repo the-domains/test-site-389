@@ -1,8 +1,7 @@
+name: Test site 389
+favicon: null
 layout_spectrum: 0.48625
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.43079
 collections:
   - index:
       path: /
@@ -15,26 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: this not working
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.05122892186045647
-  lightness: 0.2221111212857068
-  brandStrength: 0.5084317
   brandColors:
     - '#014202'
     - '#FFE9FA'
     - '#89C588'
     - '#FFE801'
     - '#FF01E0'
+  brandStrength: 0.5084317
+  lightness: 0.2221111212857068
+  saturation: 0.05122892186045647
   rhythmicContrast: 0.515986789483577
-typography_spectrum: 0.43079
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Test site 389
+purpose: []
