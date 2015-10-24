@@ -35,7 +35,7 @@ color:
     - '#cbcfd2'
     - '#c95206'
   brandStrength: 1
-  lightness: 0.2221111212857068
-  saturation: 0.05122892186045647
-  rhythmicContrast: 0.515986789483577
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
