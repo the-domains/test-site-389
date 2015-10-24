@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I'm trying to like this"
-datePublished: '2015-10-24T08:37:33.869Z'
-dateModified: '2015-10-23T13:55:34.974Z'
+datePublished: '2015-10-24T08:37:49.302Z'
+dateModified: '2015-10-24T08:37:33.869Z'
 title: Another attempt
 sourcePath: _posts/2015-10-23-another-attempt.md
 published: true
