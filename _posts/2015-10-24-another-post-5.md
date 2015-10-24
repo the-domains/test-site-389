@@ -5,21 +5,20 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: still trying
-datePublished: '2015-10-24T08:44:37.540Z'
-dateModified: '2015-10-24T08:44:12.049Z'
-title: another post 5
+description: The problem is that these guys have prioritised minimalism over User Experience.
+datePublished: '2015-10-24T14:51:41.648Z'
+dateModified: '2015-10-24T14:48:50.490Z'
+title: "I'm trying to post to The Grid"
+sourcePath: _posts/2015-10-24-another-post-5.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-24-another-post-5.md
-published: true
 url: another-post-5/index.html
 _type: Article
 
 ---
-* This is another go at this
-*
+* This is not artifical intelligence or anything _remotely_ like it.
