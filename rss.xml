@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[this not working]]></title>
-        <description><![CDATA[this not working]]></description>
+        <title><![CDATA[This is not artificial intelligence]]></title>
+        <description><![CDATA[This is not artificial intelligence]]></description>
         <link>https://thegrid.ai/test-site-389/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Oct 2015 14:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2015 14:51:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test-site-389/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,11 +40,11 @@
             <pubDate>Sat, 24 Oct 2015 14:36:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[another post 5]]></title>
-            <description><![CDATA[<article><h1>another post 5</h1><p>still trying</p></article>]]></description>
+            <title><![CDATA[I'm trying to post to The Grid]]></title>
+            <description><![CDATA[<article><h1>I'm trying to post to The Grid</h1><p>The problem is that these guys have prioritised minimalism over User Experience.</p></article>]]></description>
             <link>https://thegrid.ai/test-site-389/another-post-5/index.html</link>
             <guid isPermaLink="false">f118b739-d147-496a-826b-0b78db6b03f7</guid>
-            <pubDate>Sat, 24 Oct 2015 08:44:37 GMT</pubDate>
+            <pubDate>Sat, 24 Oct 2015 14:51:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
