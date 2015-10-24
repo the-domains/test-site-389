@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Test site 389]]></title>
-        <description><![CDATA[Test site 389]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[this not working]]></title>
+        <description><![CDATA[this not working]]></description>
+        <link>https://thegrid.ai/test-site-389/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Oct 2015 08:44:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 24 Oct 2015 14:37:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-site-389/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Untitled | Flickr - Photo Sharing!]]></title>
+            <description><![CDATA[<article><h1>Untitled | Flickr - Photo Sharing!</h1><img src="https://farm1.staticflickr.com/637/22197642096_9d4c37c6f7_b.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/gordonplant/22197642096/in/dateposted/</link>
+            <guid isPermaLink="false">7988a3a6-ac6d-4fe6-875c-e7e9c2306483</guid>
+            <pubDate>Sat, 24 Oct 2015 14:36:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[another post 5]]></title>
             <description><![CDATA[<article><h1>another post 5</h1><p>still trying</p></article>]]></description>
-            <link>undefinedanother-post-5/index.html</link>
+            <link>https://thegrid.ai/test-site-389/another-post-5/index.html</link>
             <guid isPermaLink="false">f118b739-d147-496a-826b-0b78db6b03f7</guid>
             <pubDate>Sat, 24 Oct 2015 08:44:37 GMT</pubDate>
         </item>
