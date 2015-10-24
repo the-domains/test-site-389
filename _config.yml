@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: this not working
+title: This is not artificial intelligence
 cta:
   domain: null
   bucket: null
