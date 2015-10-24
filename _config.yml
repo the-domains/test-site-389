@@ -1,28 +1,40 @@
-name: Test site 389
-favicon: null
 layout_spectrum: 0.48625
-typography_spectrum: 0.43079
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#45b39c'
-    - '#efc84a'
-    - '#334d5c'
-    - '#00ffff'
-    - '#000000'
-  brandStrength: 0.5
-  lightness: 0.22211112128570676
-  saturation: 0.05122892186045647
-  rhythmicContrast: 0.515986789483577
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.05122892186045647
+  lightness: 0.2221111212857068
+  brandStrength: 0.5084317
+  brandColors:
+    - '#014202'
+    - '#FFE9FA'
+    - '#89C588'
+    - '#FFE801'
+    - '#FF01E0'
+  rhythmicContrast: 0.515986789483577
+typography_spectrum: 0.43079
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Test site 389
