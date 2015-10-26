@@ -1,5 +1,8 @@
+name: Test site 389
+favicon: null
+layout_spectrum: 0.5788531
+typography_spectrum: 1
 title: This is not artificial intelligence
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 1
-  lightness: 1
   brandColors:
     - '#010403'
     - '#4B775B'
     - '#FFC602'
     - '#FB015C'
     - '#FFE0B4'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Test site 389
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 1
-layout_spectrum: 0.5788531
+purpose: []
