@@ -4,8 +4,15 @@
         <description><![CDATA[This is not artificial intelligence]]></description>
         <link>https://thegrid.ai/test-site-389/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 08:58:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 09:15:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test-site-389/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A tweet]]></title>
+            <description><![CDATA[<h1>A tweet</h1>]]></description>
+            <link>https://thegrid.ai/test-site-389/a-tweet/index.html</link>
+            <guid isPermaLink="false">5c07ad2f-b3e4-42de-bd7c-14ccf5d696d9</guid>
+            <pubDate>Mon, 26 Oct 2015 09:14:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Datsun]]></title>
             <description><![CDATA[<article><h1>Datsun</h1><p>Documenting the classic cars parked on the streets of San Francisco, CA.</p><img src="http://33.media.tumblr.com/avatar_02506e908ccb_128.png"></article>]]></description>
@@ -67,12 +74,6 @@
             <description><![CDATA[<p>Gordon Plant posted this photo on 2015-09-29. 3 likes. 0 comments. 0 shares.</p>]]></description>
             <link>https://www.facebook.com/photo.php?fbid=10152965335146710&amp;set=a.10150794509746710.398439.687536709&amp;type=3</link>
             <guid isPermaLink="false">1d8c6615-529c-4e2d-959d-4adc1f6990de</guid>
-            <pubDate>Sat, 24 Oct 2015 14:40:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.facebook.com/photo.php?fbid=10152964139576710&amp;set=ms.c.eJwzNDA0NbI0MzE0tjQ1NzM3NNAzRBKxRBcxMzNEFwGrAQADng5X.bps.a.10152962561496710.1073741845.687536709&amp;type=3</link>
-            <guid isPermaLink="false">1cef803c-654d-468a-982f-b22bc7029f83</guid>
             <pubDate>Sat, 24 Oct 2015 14:40:36 GMT</pubDate>
         </item>
     </channel>
